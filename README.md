@@ -34,6 +34,9 @@ Use KPI cards for summary metrics.
 5. Dashboard Enhancement--Format with consistent colors, clear titles, and aligned visuals.
 Add interactive slicers and tooltips.
 
+Dashboad
+
+https://github.com/Chandanashettybk/FUTURE_DS_01/blob/main/snapshot.png
 
 Project Insights
 
