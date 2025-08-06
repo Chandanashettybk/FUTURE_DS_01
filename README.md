@@ -37,12 +37,12 @@ Add interactive slicers and tooltips.
 
 Project Insights
 
-Sales Trends: The line chart revealed specific months/seasons with highest sales, allowing the business to plan promotions or stock accordingly.
-Product Performance: The Top 10 Best-Selling Products chart identified which items drive the most revenue, helping to guide inventory and marketing focus.
-Category Share: The Category Pie Chart showed the proportion of total sales each category contributes, enabling resource allocation to high-performing categories.
-Returns Analysis: The Returns by Product chart helped spotlight products with higher return rates, signaling issues with product quality, fulfillment, or customer satisfaction.
-Region and Segment Breakdown: Segmentation by year, region, and customer type exposed growth areas and potential targets for expansion.
-Interactive Filtering: Slicers and filters enabled in-depth, ad hoc analysis by senior management—making the dashboard an actionable decision-support tool.
+1.Sales Trends: The line chart revealed specific months/seasons with highest sales, allowing the business to plan promotions or stock accordingly.
+2.Product Performance: The Top 10 Best-Selling Products chart identified which items drive the most revenue, helping to guide inventory and marketing focus.
+3.Category Share: The Category Pie Chart showed the proportion of total sales each category contributes, enabling resource allocation to high-performing categories.
+4.Returns Analysis: The Returns by Product chart helped spotlight products with higher return rates, signaling issues with product quality, fulfillment, or customer satisfaction.
+5.Region and Segment Breakdown: Segmentation by year, region, and customer type exposed growth areas and potential targets for expansion.
+6.Interactive Filtering: Slicers and filters enabled in-depth, ad hoc analysis by senior management—making the dashboard an actionable decision-support tool.
 
 Final Conclusion
 
